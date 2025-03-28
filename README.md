@@ -58,6 +58,5 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## Author
-- [Your Name]
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GOH WOEN SHIAW
 
